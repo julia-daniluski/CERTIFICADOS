@@ -12,3 +12,6 @@ Será necessário utilizar o mesmo login e senha do Portal EAD do SENAI para ent
 
 O certificado estará disponível para emissão a partir de 02/05/2025, às 00:03:58. Por favor, aguarde até esse momento para realizar a emissão."
 
+![image](https://github.com/user-attachments/assets/da8b1d61-d8f9-4782-ab8c-2a79ea992f22)
+
+![image](https://github.com/user-attachments/assets/e8c97365-baa3-4c5f-8fc4-cd471c7d29cb)
